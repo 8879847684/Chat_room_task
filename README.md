@@ -27,6 +27,20 @@ ws://localhost:8080
 setup or not check.
 
 open this link directly can see : http://localhost/full-chat-app/chat-app/public/login.html
+Run in the CMD THIS commands
+C:\> cd xampp\htdocs
+C:\xampp\htdocs> cd full-chat-app
+
+C:\xampp\htdocs\full-chat-app>cd chat-app
+
+C:\xampp\htdocs\full-chat-app\chat-app>cd ws-server
+
+C:\xampp\htdocs\full-chat-app\chat-app\ws-server>php server.php
+
+Then all this will start working this for websocket.(Connection Socket)
+
+
+
 Database connection details
 dbname=chat_app;
 charset=utf8', 
