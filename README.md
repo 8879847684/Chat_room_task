@@ -8,6 +8,19 @@ step 4 : install the composer
 step 5 : then install dependency 
 Step 6 : run this composer require cboden/ratchet(install all the dependency)
 
+Autoload file must is present.
+Kindly install the  composer for websocket
+This folder structure .
+C:\xampp\htdocs\full-chat-app\
+└── chat-app\
+    ├── vendor\
+    │   └── autoload.php 
+    ├── ws-server\
+    │   ├── server.php 
+    │   └── ChatServer.php 
+
+    
+
 then you are set run the code.
 Check the websocket 
 ws://localhost:8080
