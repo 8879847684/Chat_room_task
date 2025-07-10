@@ -47,6 +47,8 @@ charset=utf8',
 username  = 'root', 
 password = ''
 
+Database SqlFile Name : db_chat room.sql
+
 
 Sample login credentials
 
