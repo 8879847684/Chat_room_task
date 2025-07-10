@@ -26,7 +26,7 @@ Check the websocket
 ws://localhost:8080
 setup or not check.
 
-
+open this link directly can see : http://localhost/full-chat-app/chat-app/public/login.html
 Database connection details
 dbname=chat_app;
 charset=utf8', 
